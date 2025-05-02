@@ -11,10 +11,6 @@ export enum KEYS {
   ENTER = 'Enter',
   ESC = 'Escape',
   TAB = 'Tab',
-  LEFT = 'ArrowLeft',
   UP = 'ArrowUp',
-  RIGHT = 'ArrowRight',
   DOWN = 'ArrowDown',
-  T = 'F5',
-  BACKSPACE = 'Backspace',
 }
